@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a9285be-aa82-4178-8105-eb2f2fd67be0" name="Default Changelist" comment="" />
+    <list default="true" id="1a9285be-aa82-4178-8105-eb2f2fd67be0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +45,20 @@
       <recent name="C:\Users\OSCAR\workspace\automationboardroom\konga\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LoginTest">
+  <component name="RunManager" selected="Application.KongaAutomation (1)">
+    <configuration name="KongaAutomation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kongaAutomation.KongaAutomation" />
+      <module name="konga" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kongaAutomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="KongaAutomation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KongaAutomationTest.KongaAutomation" />
       <module name="konga" />
@@ -72,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KongaAutomation (1)" />
         <item itemvalue="Application.LoginTest" />
         <item itemvalue="Application.KongaAutomation" />
       </list>
@@ -91,22 +107,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1587116682752">
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1587206703223">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587116682752" />
-    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1587116682752">
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587206703223" />
+    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1587206703223">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587116682752" />
-    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1587116682752">
+    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587206703223" />
+    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1587206703223">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587116682752" />
-    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1587116682752">
+    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587206703223" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1587206703223">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587116682752" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587206703223" />
     <state x="499" y="142" key="chooseDestDirectoryDialog" timestamp="1587114369158">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
