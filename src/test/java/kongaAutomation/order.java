@@ -26,6 +26,8 @@ class KongaAutomation {
         Thread.sleep(5000);
         //maximize the window
         driver.manage().window().maximize();
+        //Login
+        XXXXXX
         //select a category
         driver.findElement(By.cssSelector(".ef511_2c5_i:nth-child(3)")).click();
         //hold on for the subcategory to load
